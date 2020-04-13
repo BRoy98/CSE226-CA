@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hospital Management System</string>
+    <string name="hint_email">Email Addess</string>
+    <string name="hint_pass">Password</string>
+    <string name="login">Login</string>
+    <string name="crafted_by">Crafted by Bishwajyoti Roy</string>
+    <string name="logout">Logout</string>
+    <string name="doctor">Doctor</string>
+</resources>
